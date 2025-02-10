@@ -40,6 +40,19 @@
 .nav-btn-icon {
     color: #FFFFFF;
 }
+.resume-btn {
+    background-color: #ffffff; /* Customize color */
+    color: rgb(0, 0, 0) !important;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.resume-btn:hover {
+    background-color: #000000; /* Darker shade on hover */
+}
+
 
 @media (max-width: 426px) {
     #navbar {
@@ -66,7 +79,7 @@
 /* SECTION NO 1 */
 
 .section-1 {
-    background-color: #F2F2F2;
+    background-color: #F2F2F2 ;
     height: 450px;
     padding: 0px;
 }
