@@ -1,46 +1,36 @@
-<a href="https://www.buymeacoffee.com/mubeenahmad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="width: 130px;" ></a>
+# 🌟 Simple Portfolio Website
 
-# Simple Portfolio Website
+This is a **responsive portfolio website** built using **HTML, CSS, and JavaScript**. It showcases personal information, projects, and contact details in a clean and professional design.
 
-A simple portfolio website to showcase your work and projects. <a href="https://muhammadmubeen17.github.io/simple-portfolio-website" target="_blank">Click here to visit</a>
-<div align="center">
-  <a href="https://muhammadmubeen17.github.io/simple-portfolio-website" target="_blank"><img alt="Demo" src="./screenshots/Portfolio-Websites.png" /></a>
-</div>
+![Portfolio Preview](https://raw.githubusercontent.com/your-username/your-repo/main/image-name.png)
 
-<br/>
 
-## **Built With**
+---
 
-This project was built using the following technologies.
+## ✨ Features
+- 🖥️ **Responsive Design** – Works on desktop, tablet, and mobile.
+- 🎨 **Modern UI** – Simple, elegant, and easy to navigate.
+- 🚀 **Fast Loading** – Optimized for performance.
+- 📂 **Project Showcase** – Display your best work with descriptions and links.
+- 📞 **Contact Section** – Includes social links and a contact form.
 
-- HTML5
-- CSS3
-- JavaScript
-- jQuery
-- Bootstrap
-- FontAwesome Icons
-- Bootstrap Icons
+---
 
-## **Features**
+## 📌 Technologies Used
+- **HTML5** – Structuring the content.
+- **CSS3** – Styling and layout (Flexbox/Grid).
+- **JavaScript** – Enhancing interactivity.
+- **[Bootstrap (if used)]** – For responsive design.
 
-- **📖 Single-Page Layout**
+---
 
-- **🎨 Styled with Bootstrap and Css**
+## 🚀 Installation & Usage
+### **🔹 Live Demo**
+[Click here to view the live website](https://your-portfolio-link.com)  
+_(Replace with your actual hosted link)_
 
-- **📱 Fully Responsive**
+### **🔹 Run Locally**
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Hariprasath3003/Simple-portfolio.git
 
-## **Getting Started**
-
-Clone down this repository. You will need `git` installed globally on your machine.
-
-## 🛠 Setup Instructions
-
-Run this command to clone the repository: 
-
-    git clone https://github.com/muhammadmubeen17/simple-portfolio-website.git
-
-## **Show your support**
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/mubeenahmad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
